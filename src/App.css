@@ -1,14 +1,4 @@
-.container{
-  margin: auto;
-  max-width: 600px;
-}
-.todoBlock{
-  padding: 30px;
-  margin-top: 50px;
-  border-radius: 10px;
-  background-color: #fff;
-  box-shadow: -9px 17px 13px rgb(0 0 0/16%);
-}
-.title{
-  text-align: center;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
